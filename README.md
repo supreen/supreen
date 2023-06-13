@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreen)](https://github.com/supreen)
-- 👋 Hi, I’m @supreen
 - 👀 I’m interested in AI, automation, Bot development and Website Development.
 - 🌱 I’m currently learning Machine and Deep learning.
 - 💞️ I’m looking to collaborate on few chatbot projects.
